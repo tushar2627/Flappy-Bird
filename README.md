@@ -42,11 +42,6 @@ A clone of the classic Flappy Bird game, built in Unity. This game is designed t
 
 ---
 
-## 📸 Screenshots
-*Add gameplay screenshots here (optional)*
-
----
-
 ## 🔮 Future Improvements
 - Add different game modes (e.g., timed mode, endless mode)
 - Improve animations and game visuals
