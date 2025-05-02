@@ -37,8 +37,7 @@ A clone of the classic Flappy Bird game, built in Unity. This game is designed t
 ---
 
 ## 📦 Downloads
-- [Download APK for Android](link-to-apk)
-- [Download PC Build (EXE)](link-to-pc-zip)
+- [Download APK for Android and EXE for Pc]([link-to-apk](https://github.com/tushar2627/Flappy-Bird/releases/tag/v0.1))
 
 ---
 
